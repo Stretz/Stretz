@@ -2,9 +2,11 @@ Hi my name is Stretz
 
 Im from the United Kingdom
 
-FiveM Developer
+Freelance FiveM Developer
 
-QBCore | EL-BASE | EL-FW | ESX 1.2 & Legacy
+QBCore | ESX 1.2 & Legacy
+
+JS / LUA / CSS / PHP / HTML
 
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=stretz)](https://git.io/streak-stats)
