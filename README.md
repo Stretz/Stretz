@@ -16,6 +16,11 @@ I enjoy taking projects from an initial idea all the way through to a polished, 
 ![Qbox](https://img.shields.io/badge/Qbox-000000?style=for-the-badge)
 ![QBCore](https://img.shields.io/badge/QBCore-000000?style=for-the-badge)
 ![ESX](https://img.shields.io/badge/ESX-000000?style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge\&logo=javascript)
+![React](https://img.shields.io/badge/React-000000?style=for-the-badge\&logo=react)
+![Vite](https://img.shields.io/badge/Vite-000000?style=for-the-badge\&logo=vite)
+![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge\&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge\&logo=css3)
 
 ### 💻 Web Development
 
