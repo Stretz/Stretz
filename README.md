@@ -16,8 +16,6 @@ I enjoy taking projects from an initial idea all the way through to a polished, 
 ![Qbox](https://img.shields.io/badge/Qbox-000000?style=for-the-badge)
 ![QBCore](https://img.shields.io/badge/QBCore-000000?style=for-the-badge)
 ![ESX](https://img.shields.io/badge/ESX-000000?style=for-the-badge)
-![ox\_lib](https://img.shields.io/badge/ox__lib-000000?style=for-the-badge)
-![ox\_inventory](https://img.shields.io/badge/ox__inventory-000000?style=for-the-badge)
 
 ### 💻 Web Development
 
